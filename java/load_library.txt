@@ -1,0 +1,2 @@
+System.load(System.getProperty("user.dir")+"./TDBAPI.dll");
+System.load(System.getProperty("user.dir")+"./tdbapi_jni.dll");
